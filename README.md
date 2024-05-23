@@ -7,8 +7,8 @@
 
         ‎💥 On a mission to uncover how far "Let's try it!" can take me!
         
-        - My curiosity currently takes me to Data Science 💃.
-        - Building Machine Learning projects with Kaggle competitions and BigQuery.
+        - 👀 I’m interested in high performance scientific computing and data analysis.
+        - 💃 Building Machine Learning projects with Kaggle competitions and BigQuery.
         - Writing blog reviews sharing my thoughts and tips for others, who are studying online 🫵.
         - Spending time making things in various mediums, including knitting, and crocheting.
         - Cats lover 🐈‍⬛
