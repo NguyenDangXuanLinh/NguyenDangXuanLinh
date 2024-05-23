@@ -5,6 +5,15 @@
 
 [![Welcome Message](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3100&pause=400&color=F2BD39&random=false&width=440&height=60&lines=Hi%2C+I'm+Xu%C3%A2n+Linh;Welcome+to+my+GitHub+~(%5E-%5E)~)](https://git.io/typing-svg)
 
+        ‎💥 On a mission to uncover how far "Let's try it!" can take me!
+        
+        - My curiosity currently takes me to Data Science 💃.
+        - Building Machine Learning projects with Kaggle competitions and BigQuery.
+        - Writing blog reviews sharing my thoughts and tips for others, who are studying online 🫵.
+        - Spending time making things in various mediums, including knitting, and crocheting.
+        - Cats lover 🐈‍⬛
+
+<br>
 
 ## 🌟 GitHub Stats
 
@@ -13,16 +22,6 @@
      <img alt="toplangs-stats" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDangXuanLinh&layout=compact&hide_border=true&theme=rose&hide_progress=true&langs_count=8" />    
 </a>
 
-<br>
-
-## ‎🎀 About Me
-
-- I love to research, analyze, and immerse myself in the data.
-- Studying Data Science online 💃.
-- Building Machine Learning projects with **Kaggle** competitions and BigQuery.
-- Writing blog reviews sharing my thoughts and tips for others, who share the same path 🫵.
-- Spending time making things in various mediums, including knitting, and crocheting.
-- Cats lover 🐈‍⬛
 
 <br>
 
